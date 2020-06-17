@@ -1,6 +1,7 @@
 # Data Structure:-
 
 ### Topic
+## Time Complexity
 
 ### 1. Array 
 
